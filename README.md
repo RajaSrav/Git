@@ -58,10 +58,10 @@ function fancyAlert(arg) {
 
 What is your name
 
--[] raj
--[] G.K.Raja
--[X] Raja
--[] Maha
+- [] raj
+- [] G.K.Raja
+- [X] Raja
+- [] Maha
 
 Mentor Name | Salary
 ------------|---------
